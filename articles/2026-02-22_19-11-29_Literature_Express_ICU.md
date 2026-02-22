@@ -1,0 +1,30 @@
+# 2026年2月23日 - 专业文献速递
+
+本期速递为您整理了最新的科研文献及AI评价，每一篇文献都包含了详细的元数据、原文摘要、中文翻译和AI的专业点评，敬请参考。
+
+---
+
+## 1. 重组活化凝血因子VII（rFVIIa）对比安慰剂治疗症状发作2小时内的自发性脑出血（FASTEST）：一项多中心、双盲、随机、安慰剂对照、3期临床试验
+
+**原文链接：** [点击跳转](https://pubmed.ncbi.nlm.nih.gov/41653933)
+**期刊：** Lancet (London, England)
+**PMID：** 41653933
+**DOI：** 10.1016/S0140-6736(26)00097-8
+
+### 第一部分 原文与翻译
+
+**英文原标题：** Recombinant factor VIIa versus placebo for spontaneous intracerebral haemorrhage within 2 h of symptom onset (FASTEST): a multicentre, double-blind, randomised, placebo-controlled, phase 3 trial.
+
+> **英文摘要：**
+> BACKGROUND: Recombinant factor VIIa has been shown to slow bleeding in patients with intracerebral haemorrhage (ICH), but no haemostatic agent has been shown to improve clinical outcomes. We aimed to evaluate the safety, clinical efficacy, and effect on growth of ICH and intraventricular haemorrhage (IVH) of recombinant factor VIIa in patients with acute spontaneous ICH who were most likely to benefit from treatment with this agent. METHODS: We conducted a multicentre, prospective, double-blind, randomised, placebo-controlled, adaptive, phase 3 trial (FASTEST) at 93 sites across the USA, Japan, Canada, Spain, Germany, and the UK. Adults aged 18-80 years with a spontaneous ICH of 2-60 mL, IVH in less than two-thirds of one lateral ventricle or in less than a third of both lateral ventricles, a Glasgow Coma Scale score of at least 8, no evidence of recent ischaemic stroke or myocardial infarction, no recent use of anticoagulation medication or other structural cause of ICH, and who had been treated with study medication within 2 h of stroke onset or last known well were eligible for inclusion. Patients were randomly assigned (1:1) by a simple randomisation scheme to either 80 μg/kg recombinant factor VIIa (intervention group) or an identical placebo (placebo group), administered intravenously over 2 min. All investigators and participants were masked to allocated group assignment. The primary outcome was functional outcome at 180 days, measured by modified Rankin Scale (mRS; score 0-2, 3, and 4-6) and analysed by intention to treat in all randomly assigned patients. The primary safety outcome was life-threatening thromboembolic events during the first 4 days, assessed in all randomly assigned participants. The secondary aim was change in ICH volume and ICH plus IVH volume between baseline and 24 h of treatment administration. We performed an ordinal logistic regression, adjusted for age, baseline ICH volume, baseline IVH volume, and pre-stroke mRS. Preplanned interim analyses, including adaptive sample size re-estimation and enrichment to a younger subgroup (aged ≤70 years), were also conducted. This trial is registered with ClinicalTrials.gov (NCT03496883) and is closed to new participants. FINDINGS: Between Dec 3, 2021, and Oct 1, 2025, we screened 3288 patients, of whom 626 participants were randomly assigned and included in the intention-to-treat analyses: 298 (48%) in the placebo group and 328 (52%) in the intervention group. 216 (35%) participants were female and 410 (65%) were male, with a mean age of 61 years (SD 12). Mean time from stroke onset to administration of study drug was 100 min (SD 22). The trial met the prespecified stopping criteria for futility at the second interim analysis. There was no differential effect in the primary clinical outcome measure of mRS at 180 days between the intervention group and placebo group (adjusted common odds ratio 1·09 [95% CI 0·79-1·51]; p=0·61). Life-threatening thromboembolic complications within 4 days occurred in 15 (<5%) participants in the intervention group and in four (1%) in the placebo group (relative risk 3·41 [95% CI 1·14-10·15]; p=0·020). Compared with placebo, recombinant factor VIIa was associated with decreased growth of ICH (-3·7 mL [95% CI -5·4 to -1·9]) and of ICH plus IVH growth (-5·2 mL [-7·6 to -2·8]) between baseline and CT scan at 24 h. INTERPRETATION: Recombinant factor VIIa administered within 2 h of ICH onset slowed haematoma growth, but did not improve functional outcomes and showed a small increased risk of life-threatening thromboembolic complications. Further testing of recombinant factor VIIa in patients with the greatest risk of continued bleeding is ongoing. FUNDING: National Institute of Neurological Diseases and Stroke, Japan Agency for Medical Research and Development, and Novo Nordisk.
+
+> **中文摘要：**
+> 背景：重组活化凝血因子VII（rFVIIa）已被证明能减缓脑出血（ICH）患者的出血，但目前尚未有止血剂被证明能改善临床预后。本研究旨在评估rFVIIa在最可能从该药物治疗中获益的急性自发性ICH患者中的安全性、临床疗效以及对ICH和脑室出血（IVH）增长的影响。方法：我们在美国、日本、加拿大、西班牙、德国和英国的93个中心开展了一项多中心、前瞻性、双盲、随机、安慰剂对照、适应性3期临床试验（FASTEST）。纳入标准为：年龄18-80岁的成人，自发性ICH体积为2-60 mL，IVH小于一侧侧脑室的三分之二或小于双侧侧脑室的三分之一，格拉斯哥昏迷量表评分至少为8分，无近期缺血性卒中或心肌梗死证据，近期未使用抗凝药物且无其他结构性ICH原因，并在卒中发作或最后已知正常状态后2小时内接受研究药物治疗。患者通过简单随机化方案以1:1的比例被随机分配到80 μg/kg的rFVIIa组（干预组）或等效安慰剂组（安慰剂组），在2分钟内静脉给药。所有研究人员和受试者均对分组分配设盲。主要结局指标为180天时的功能预后，通过改良Rankin量表（mRS；评分0-2、3和4-6）进行评估，并在所有随机分配的患者中通过意向性治疗分析进行评价。主要安全性结局是前4天内发生的危及生命的血栓栓塞事件，在所有随机分配的受试者中进行评估。次要目标是基线至给药后24小时之间ICH体积以及ICH合并IVH体积的变化。我们进行了序数逻辑回归，并根据年龄、基线ICH体积、基线IVH体积和卒中前mRS进行了调整。还进行了预先计划的中期分析，包括适应性样本量重新估计以及向更年轻亚组（年龄≤70岁）的富集。本试验在ClinicalTrials.gov注册（NCT03496883），现已停止招募。结果：在2021年12月3日至2025年10月1日期间，我们筛选了3288例患者，其中626名受试者被随机分配并纳入意向性治疗分析：安慰剂组298人（48%），干预组328人（52%）。受试者中女性216人（35%），男性410人（65%），平均年龄为61岁（标准差12）。从卒中发作到研究药物给药的平均时间为100分钟（标准差22）。试验在第二次中期分析时达到了预设的因无效而终止的条件。在180天时mRS的主要临床结局指标上，干预组和安慰剂组之间无差异（调整后的共同优势比为1.09 [95% CI 0.79-1.51]；p=0.61）。干预组有15名（<5%）受试者在4天内发生了危及生命的血栓栓塞并发症，而安慰剂组为4名（1%）（相对风险3.41 [95% CI 1.14-10.15]；p=0.020）。与安慰剂相比，在基线到24小时CT扫描之间，rFVIIa与ICH增长减少（-3.7 mL [95% CI -5.4至-1.9]）以及ICH合并IVH增长减少（-5.2 mL [-7.6至-2.8]）相关。结论：在ICH发作后2小时内给予rFVIIa可减缓血肿增长，但未能改善功能预后，且危及生命的血栓栓塞并发症风险轻微增加。针对具有最高持续出血风险患者的rFVIIa进一步测试正在进行中。
+
+### 第二部分 AI 大师评价
+
+FASTEST试验是一项针对超早期（发作2小时内）自发性脑出血患者使用rFVIIa的关键性3期研究。尽管干预显著减少了24小时内的血肿增长（ICH和IVH），但这种生物学效应并未转化为180天功能预后（mRS评分）的改善，且试验因中期分析显示无效而提前终止。安全性方面，rFVIIa组表现出更高的早期危及生命的血栓栓塞事件风险，这再次证明了在脑出血止血治疗中，如何平衡止血获益与系统性血栓风险仍是尚未解决的医学难题。
+
+---
+
+速递结束，祝您工作愉快！
